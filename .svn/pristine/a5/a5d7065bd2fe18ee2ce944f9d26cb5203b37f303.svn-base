@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.zhy-okhttputils-2.6.2_8172e362e6a91b5213e63b5a595f5bcd7a81b531\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee9aade8a26173133fe9daf8780825cb58f96553">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_57c3cfc27cb6b764176e0c29e6fb4c20549fda6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_5033c029ee0d54c3ea31941e62e5a09b253bda11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_57a3add4017aee1d25ecdac99e6918ac14dbcbd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_01c2c84e0cf121511f710dfdbfb47fccf55a6c79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.5_74dd2eeb7003a467412f92d8accbdaab9a47a4fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\libs\fastjson-1.2.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3a6e5f623dccd587c3d3cffd4fde80261f326715">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.2.9_4ff67370e75740eb06dfae4851ab9f4d972b611b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_38e527a32cae6f868547af2616213bfdd676a0b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.0.1_609449105bc3c8dfa4d72b1554300c43d29f4465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_aaba4558c7e5fcd11f044bf377909c3b5b85206f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_6ec10cfaf9fede0f2a461dc786eb096a5b762f41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="47a2ec26b313b3e045043e473ffb7e6387623727">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6599f6f44524565978508be1558c026d4fd1ddd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f\classes.dex" />
+    </item>
+
+</items>

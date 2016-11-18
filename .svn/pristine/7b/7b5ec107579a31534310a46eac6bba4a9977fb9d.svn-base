@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="28568528077480"
+    token="8310212518257670574"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="149" />
+    <task
+        name="instant-run-dex"
+        duration="399" />
+    <task
+        name="instant-run-transform"
+        duration="35" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="22750453146817"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\lizhangfeng_workspace\ChengDuYan\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="23545287549189"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="28539140379703"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="28568528077480"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\lizhangfeng_workspace\ChengDuYan\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
